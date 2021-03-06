@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrealvesz&show_icons=true&locale=en&layout=compact&theme=radical" alt="andrealvesz" /></p>
 
-<p>&nbsp;<img align="center" height="490" width="193" src="https://github-readme-stats.vercel.app/api?username=andrealvesz&show_icons=true&locale=en&theme=radical" alt="andrealvesz" /></p>
+<p>&nbsp;<img align="center" height="193" width="490" src="https://github-readme-stats.vercel.app/api?username=andrealvesz&show_icons=true&locale=en&theme=radical" alt="andrealvesz" /></p>
