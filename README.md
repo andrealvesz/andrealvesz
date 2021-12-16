@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm André Alves</h1>
-<h3 align="center">Sou Formado em Sistemas de Informação e me especializei em Desenvolvimento Front-End e Mobile através do curso da B7web, que é um curso realizado pelo Bonieky Lacerda. Hoje, atuo como desenvolvedor mobile na TRIXX-Fábrica de Software!</h3>
+<h3 align="center">Sou Formado em Sistemas de Informação e me especializei em Desenvolvimento Front-End e Mobile através do curso da B7web, que é um curso realizado pelo Bonieky Lacerda. Hoje, atuo como desenvolvedor mobile na TRIXX-Fábrica de Software e a tecnologia que utilizo é React-Native! </h3>
 
 - 🌱 I’m currently learning **javascript by b7web course**
 
-- 📫 How to reach me **andrealves1909@gmail.com**
+- 📫 How to reach me **andrealvesdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
