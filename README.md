@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm André Alves</h1>
-<h3 align="center">Sou Formado em Sistemas de Informação e me especializei em Desenvolvimento Front-End e Mobile através do curso da B7web, que é um curso realizado pelo Bonieky Lacerda. Hoje, atuo como desenvolvedor mobile na TRIXX-Fábrica de Software e a tecnologia que utilizo é React-Native! </h3>
+<h3 align="center">Sou Formado em Sistemas de Informação e me especializei em Desenvolvimento Front-End e Mobile através do curso da B7web, que é um curso realizado pelo Bonieky Lacerda. Hoje, atuo como desenvolvedor mobile na Corebiz e a tecnologia que utilizamos é React-Native! </h3>
 
 - 🌱 I’m currently learning **javascript by b7web course**
 
