@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm André Alves</h1>
-<h3 align="center">Sou Formado em Sistemas de Informação e me especializei em Desenvolvimento Front-End e Mobile através do curso da B7web, que é um curso realizado pelo Bonieky Lacerda. Hoje, atuo como desenvolvedor mobile na Corebiz e a tecnologia que utilizamos é React-Native! </h3>
-
-- 🌱 I’m currently learning **javascript by b7web course**
+<h3 align="center">Bacharel em Sistemas de Informação, Desenvolvedor Mobile desde 2021 e especializado em React Native. Apaixonado por criar soluções inovadoras e eficientes, sempre buscando otimizar processos e resolver problemas complexos. Meu trabalho é pautado pela dedicação, organização e comprometimento, e estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos de sucesso. </h3>
 
 - 📫 How to reach me **andrealvesdev@gmail.com**
 
